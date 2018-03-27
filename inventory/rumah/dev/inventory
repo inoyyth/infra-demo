@@ -21,7 +21,7 @@ cluster_name=supriyadin-app-demo
 127.0.0.1
 
 [service:vars]
-target_group_arn=arn:aws:elasticloadbalancing:ap-southeast-1:538471682716:targetgroup/supriyadin-app-demo/a1e9e92eb03dd59a
+target_group_arn=arn:aws:elasticloadbalancing:ap-southeast-1:538471682716:targetgroup/supriyadin-app-demo/f3b0e486d0d68c84
 desired_count=1
 service_name=supriyadin-app-demo
 build_number=13
